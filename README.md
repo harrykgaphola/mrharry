@@ -1,6 +1,6 @@
 # mrharry
 import math
-print("assignment 1")
+print("assignment 1")#calculates and avarage of a set of  numbers 
 (val1)=input("enter value 1 : ")
 a=int(val1)
 val2=input("enter value 2 : ")
@@ -14,7 +14,7 @@ totl=a+b+c+d
 avrg=totl/5
 print("the avarrage is : ",avrg)
 print(" ")
-print("assignment 2")
+print("assignment 2")#calculates diameter, and cicumference of a given radius
 redi=input('please enter the radius : ')
 e=float(redi)
 print("the radius is : ",redi)
@@ -28,7 +28,7 @@ print("the the circumferance is : ",c3)
 area=b3*(e**2)
 print("the area is : ",area) 
 print(" ")
-print("assignment 3")
+print("assignment 3")#calculates the resultant displacement of given co-odnates
 cord1=input("enter value for co-0denate x1: ")
 a2=float(cord1)
 cord2=input("enter value for co-0denate x2: ")
